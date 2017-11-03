@@ -43,7 +43,7 @@
 	<script type="text/javascript">
 		$(document).ready(function(){
 			
-			var token = "547916969.1677ed0.edf98be6c798469eaff940ef2492b859"; //Obtener Token Acccess desde el siguiente enlace http://instagram.pixelunion.net/ 
+			var token = " TOKEN ACCESS "; //Obtener Token Acccess desde el siguiente enlace http://instagram.pixelunion.net/ 
 		    num_photos = 9; //Limite de fotos a mostrar
 		 
 			$.ajax({
